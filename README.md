@@ -2,19 +2,6 @@
 
 A sophisticated, intelligent SQL Agent that leverages advanced AI models to transform natural language queries into executable SQL statements. This project enables users to interact with databases using conversational language, making data access more intuitive and accessible.
 
-## 🎯 Overview
-
-The AI-Powered SQL Agent is an innovative solution that bridges the gap between natural language and database queries. By combining state-of-the-art language models with SQL generation capabilities, it allows both technical and non-technical users to efficiently query databases using plain English.
-
-### Key Capabilities
-
-- **Natural Language Processing**: Convert plain English questions into accurate SQL queries
-- **Multi-Database Support**: Compatible with various SQL database systems
-- **Context-Aware Responses**: Understands database schema and generates contextually relevant queries
-- **Error Handling**: Intelligent error detection and query refinement
-- **Audit Trail**: Track and log all generated queries for compliance and debugging
-
-## ✨ Features
 
 ### Core Features
 
